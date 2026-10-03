@@ -1,4 +1,4 @@
-RELATÓRIO ESTÁTICO DE INCIDÊNCIA — NOELBIA
+RELATÓRIO ESTÁTICO DE INCIDÊNCIA
 
 Abra o arquivo index.html diretamente no navegador.
 
